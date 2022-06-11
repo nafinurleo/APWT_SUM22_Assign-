@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.wtlogintopbar')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.logintopbar')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
